@@ -18,13 +18,14 @@ h1{
 p{
     font-size: 1.1em;
 }
-.entete {
-    background-color: white;
-}
-.pied {
+.entete, .pied {
     background-color: white;
 }
 .service {
     background-color: darkblue;
     color: #F9F8FF;
 }
+.cta {
+    background: linear-gradient(#8e86b5, #acaeed);
+    color: white;
+  }
