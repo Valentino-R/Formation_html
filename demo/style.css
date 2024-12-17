@@ -22,10 +22,12 @@ p{
     background-color: white;
 }
 .service {
-    background-color: darkblue;
     color: #F9F8FF;
+    border-right: 1px solid #8e86b5;
+    border-bottom: 1px solid #8e86b5;
 }
 .cta {
     background: linear-gradient(#8e86b5, #acaeed);
     color: white;
+    border-radius: 50px;
   }
