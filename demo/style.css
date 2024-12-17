@@ -31,3 +31,13 @@ p{
     color: white;
     border-radius: 50px;
   }
+  a:hover {
+    text-decoration: underline;
+  }
+  .cta:hover {
+    background: linear-gradient(#696484, #8788ba);
+    text-decoration: none;
+  }
+.logo:hover{
+    opacity: 0.5;
+}
