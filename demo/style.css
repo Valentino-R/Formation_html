@@ -1,5 +1,7 @@
 body{
     font-style: 'Manrope';
+    background-color: #1F2039;
+    color: white;
 }
 a{
     color: black;
@@ -15,4 +17,14 @@ h1{
 }
 p{
     font-size: 1.1em;
+}
+.entete {
+    background-color: white;
+}
+.pied {
+    background-color: white;
+}
+.service {
+    background-color: darkblue;
+    color: #F9F8FF;
 }
