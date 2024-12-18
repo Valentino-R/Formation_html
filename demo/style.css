@@ -18,7 +18,7 @@ h1{
 p{
     font-size: 1.1em;
 }
-.entete, .pied {
+header, footer {
     background-color: white;
 }
 .service {
