@@ -20,12 +20,25 @@ p{
 }
 header, footer {
     background-color: white;
+    margin: 0;
+    padding: 20px, 50px;
+}
+section {
+    padding: 80px;
 }
 .service {
-    color: #F9F8FF;
     border-right: 1px solid #8e86b5;
     border-bottom: 1px solid #8e86b5;
-}
+    padding: 50px;
+  }
+  
+.service h2 {
+    margin-top: 30px;
+  }
+  
+.service ul {
+    margin-top: 30px;
+  }
 .cta {
     background: linear-gradient(#8e86b5, #acaeed);
     color: white;
@@ -41,3 +54,7 @@ header, footer {
 .logo:hover{
     opacity: 0.5;
 }
+.a-propos-main {
+    width: 50%;
+    margin: auto;
+  }
